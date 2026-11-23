@@ -6,7 +6,7 @@
 #include "eeprom.h"
 #define FLASH_NODE DT_NODELABEL(gd25wq64)
 #define TEST_ADDRESS 0x000000U
-//hello
+//htis was chnaage yesh the itis uplading the hitgub spaces 
 int main(void)
 {
     int ret;
