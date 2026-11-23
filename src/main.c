@@ -8,7 +8,7 @@
 //hello
 #define FLASH_NODE DT_NODELABEL(gd25wq64)
 #define TEST_ADDRESS 0x000000U
-
+// hello  i am bharath kumar 
 int main(void)
 {
     int ret;
