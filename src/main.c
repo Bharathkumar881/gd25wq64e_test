@@ -6,7 +6,7 @@
 #include "eeprom.h"
 #define FLASH_NODE DT_NODELABEL(gd25wq64)
 #define TEST_ADDRESS 0x000000U
-//hthis is it was chnaages s is  the is dowloade space they was chnaages 
+// this is this is uploadedd spaace
 int main(void)
 {
     int ret;
