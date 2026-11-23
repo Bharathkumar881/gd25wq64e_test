@@ -6,7 +6,7 @@
 #include "eeprom.h"
 #define FLASH_NODE DT_NODELABEL(gd25wq64)
 #define TEST_ADDRESS 0x000000U
-// this is downloade space
+// this is pc to github space
 int main(void)
 {
     int ret;
