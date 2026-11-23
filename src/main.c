@@ -6,7 +6,7 @@
 #include "eeprom.h"
 #define FLASH_NODE DT_NODELABEL(gd25wq64)
 #define TEST_ADDRESS 0x000000U
-// this is  this is is  the githib to pc
+// this is  this is is  the pcto github
 int main(void)
 {
     int ret;
