@@ -6,6 +6,7 @@
 #include "eeprom.h"
 #define FLASH_NODE DT_NODELABEL(gd25wq64)
 #define TEST_ADDRESS 0x000000U
+//hello
 int main(void)
 {
     int ret;
