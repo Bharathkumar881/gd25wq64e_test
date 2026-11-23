@@ -5,7 +5,7 @@
 #include <string.h>
 
 #include "eeprom.h"
-
+//hello
 #define FLASH_NODE DT_NODELABEL(gd25wq64)
 #define TEST_ADDRESS 0x000000U
 
